@@ -64,4 +64,3 @@ Dice-Game/
 
 Contributions are welcome!
 Feel free to fork this repo, submit issues, and create pull requests.
-```
