@@ -1,13 +1,67 @@
-# React + Vite
+````markdown
+# 🎲 Dice Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Dice Game** built with **React** and **Vite**.  
+Players can roll the dice and enjoy a fun random number game. 🚀
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚡ Tech Stack
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS / Tailwind (if used)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Dice-Game
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/atesh07/Dice-Game.git
+cd Dice-Game
+````
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the development server
+
+```bash
+npm run dev
+```
+
+### 4. Build for production
+
+```bash
+npm run build
+```
+
+---
+
+## 📂 Project Structure
+
+```
+Dice-Game/
+│── public/        # Static assets
+│── src/           # Main source code
+│   ├── components # Reusable components
+│   ├── App.jsx    # Main App component
+│   ├── main.jsx   # React entry point
+│── package.json   # Project metadata & dependencies
+│── vite.config.js # Vite configuration
+```
+## 🎮 How to Play
+
+1. Click the **Roll Dice** button.
+2. A random dice number (1–6) will appear.
+3. Enjoy the fun game with friends!
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo, submit issues, and create pull requests.
+```
