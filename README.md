@@ -29,18 +29,6 @@ npm install
 ```bash
 npm run dev
 ```
-## 📂 Project Structure
-
-```
-Dice-Game/
-│── public/        # Static assets
-│── src/           # Main source code
-│   ├── components # Reusable components
-│   ├── App.jsx    # Main App component
-│   ├── main.jsx   # React entry point
-│── package.json   # Project metadata & dependencies
-│── vite.config.js # Vite configuration
-```
 ## 🎮 How to Play
 
 1. Click the **Roll Dice** button.
