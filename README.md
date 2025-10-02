@@ -4,15 +4,11 @@
 A simple **Dice Game** built with **React** and **Vite**.  
 Players can roll the dice and enjoy a fun random number game. 🚀
 
----
-
 ## ⚡ Tech Stack
 - React
 - Vite
 - JavaScript (ES6+)
 - CSS / Tailwind (if used)
-
----
 
 ## 🚀 Getting Started
 
@@ -39,9 +35,6 @@ npm run dev
 ```bash
 npm run build
 ```
-
----
-
 ## 📂 Project Structure
 
 ```
